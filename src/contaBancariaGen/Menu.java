@@ -21,6 +21,7 @@ public class Menu {
 		
 		//Variaveis de controle do projeto
 		int opcao, numero, agencia, tipo, aniversario, numeroDestino;
+		//Aqui vai vir o nome do titular da conta
 		String titular;
 		float saldo, limite, valor;
 		
